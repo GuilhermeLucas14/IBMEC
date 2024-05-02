@@ -1,0 +1,28 @@
+1. Python
+Python é uma linguagem de alto nível, interpretada e de tipagem dinâmica. É conhecida por sua simplicidade e legibilidade, tornando-a ideal para iniciantes,
+bem como para aplicações em ciência de dados, desenvolvimento web e automação.
+
+Código Python:
+print("Hello, World!")
+
+2. Java
+Java é uma linguagem de programação orientada a objetos e fortemente tipada. Ela é projetada para ser portátil em qualquer plataforma, o que é alcançado através do uso da Java Virtual Machine (JVM). Java é amplamente utilizada em aplicações empresariais, sistemas móveis Android e aplicações de grande escala.
+
+Código Java:
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+
+3. JavaScript
+JavaScript é uma linguagem de script de alto nível e interpretada, conhecida por sua capacidade de adicionar interatividade a páginas web. É uma parte essencial do desenvolvimento web, funcionando lado a lado com HTML e CSS. Com a introdução de Node.js, também se tornou popular para servidores e aplicações backend.
+
+Código JavaScript:
+Copy code
+console.log("Hello, World!");
+
+
+
+
+
